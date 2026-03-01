@@ -27,6 +27,7 @@
 | Simulador 01 — Tema 1 (10 preguntas) | 10/10 (100%) 🏆 | [simulador_01.md](examenes/simulador_01.md) |
 | Simulador 02 — Tema 1 (10 preguntas) | 10/10 (100%) 🏆 | [simulador_02.md](examenes/simulador_02.md) |
 | Simulador 03 — Tema 2 (15 preguntas) | 15/15 (100%) 🏆 | [simulador_03.md](examenes/simulador_03.md) |
+| Simulador 04 — Tema 3 pt.1 (5 preguntas) | 5/5 (100%) 🏆 | [simulador_04.md](examenes/simulador_04.md) |
 
 ### 📂 Fuentes (PDFs originales)
 
