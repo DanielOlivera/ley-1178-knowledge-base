@@ -85,6 +85,14 @@ Legislación y normativa complementaria:
 
 ---
 
+### 📝 Exámenes y Simuladores
+
+| Simulador | Resultado | Enlace |
+|-----------|-----------|--------|
+| Simulador 01 — 25 preguntas | 24/25 (96%) | [simulador_01.md](examenes/simulador_01.md) |
+
+---
+
 ## 🏛️ Sistemas de la Ley 1178
 
 ```
