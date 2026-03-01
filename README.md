@@ -78,9 +78,10 @@ Legislación y normativa complementaria:
 
 ### 🎬 Recursos Audiovisuales
 
-| Video | Enlace |
-|-------|--------|
+| Recurso | Enlace |
+|---------|--------|
 | Videos del curso (11 videos en YouTube) | [videos.md](recursos/videos.md) |
+| ⚠️ Notas de Examen — Distinciones clave y trampas comunes | [notas_examen.md](recursos/notas_examen.md) |
 
 ---
 
