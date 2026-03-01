@@ -9,7 +9,7 @@
 | # | Base de Conocimiento | Descripción | Estado |
 |---|---------------------|-------------|--------|
 | 1 | [kb_1178](kb_1178/) | Ley 1178 — Administración y Control Gubernamentales | ✅ Activa |
-| 2 | [kb_PP](kb_PP/) | Presupuestos Públicos | 🔄 En construcción |
+| 2 | [kb_PP](kb_PP/) | Políticas Públicas | ✅ Activa |
 
 ---
 
