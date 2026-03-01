@@ -20,6 +20,12 @@
 |---------|--------|
 | Calendario del curso | [calendario.md](calendario.md) |
 
+### 📝 Exámenes y Simuladores
+
+| Simulador | Resultado | Enlace |
+|-----------|-----------|--------|
+| Simulador 01 — Tema 1 (10 preguntas) | 10/10 (100%) 🏆 | [simulador_01.md](examenes/simulador_01.md) |
+
 ### 📂 Fuentes (PDFs originales)
 
 Los documentos fuente se encuentran en la carpeta [fuentes/](fuentes/).
