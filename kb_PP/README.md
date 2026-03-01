@@ -25,6 +25,7 @@
 | Simulador | Resultado | Enlace |
 |-----------|-----------|--------|
 | Simulador 01 — Tema 1 (10 preguntas) | 10/10 (100%) 🏆 | [simulador_01.md](examenes/simulador_01.md) |
+| Simulador 02 — Tema 1 (10 preguntas) | 10/10 (100%) 🏆 | [simulador_02.md](examenes/simulador_02.md) |
 
 ### 📂 Fuentes (PDFs originales)
 
